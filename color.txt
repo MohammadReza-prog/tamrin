@@ -2,4 +2,4 @@ white
 blue
 red
 black
-pink
+yellow
